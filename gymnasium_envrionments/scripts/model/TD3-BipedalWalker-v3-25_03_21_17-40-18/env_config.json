@@ -1,0 +1,1 @@
+{"task": "BipedalWalker-v3", "gym": "openai", "domain": "", "display": 0, "frames_to_stack": 3, "frame_width": 84, "frame_height": 84, "grey_scale": 0, "rom_path": "/home/jil824/cares_rl_configs", "act_freq": 24, "emulation_speed": 0, "headless": 1}
