@@ -15,6 +15,7 @@ MDPMorph takes environment and DRL agent as input, samples initial states from t
 
 
 ## 🚩Accepted by ISSRE2025
+  👨‍💻 Authors: Jiapeng Li, Zheng Zheng, Yuning Xing, Daixu Ren, Steven Cho, Valerio Terragni
 
 
 ## 🎥 Demo Video
