@@ -12,7 +12,7 @@ import sys
 import importlib.util
 import argparse
 import os
-sys.path.append(os.path.abspath(r"F:\UoA tool paper\MDPMorph_open_source\cares_reinforcement_learning"))
+sys.path.append(os.path.abspath(r"./cares_reinforcement_learning"))
 
 
 # import train_loops.policy_loop_MR2_Test as pbe
