@@ -54,7 +54,6 @@ def evaluate(data_path, training_config, seed, alg_config, env, agent1, agent2, 
         #         # display=env_config.display,
         #     )
 
-        #  TD3运行的这个loop，policy_loop
         # elif agent.type == "policy":
         pbe.evaluate_policy_network(
             env,
