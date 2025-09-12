@@ -52,7 +52,7 @@ If you already have test suites, you can put your source test suites into the ``
 You can automatically generate source test suites by running:
 
 ```bash
-python test_generate.py \
+python generate_tests.py \
 -- num_suites 50 \
 -- num_cases 100
 ```
