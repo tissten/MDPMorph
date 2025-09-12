@@ -296,13 +296,13 @@ def main():
 
 
 if __name__ == "__main__":
-    # Step 1: 先单独解析 --relation_path
+    
     base_parser = argparse.ArgumentParser()
     base_parser.add_argument('--relation_path', type=str, required=True,
                             help='Path to the Python file containing the metamorphic relation')
     args, remaining_args = base_parser.parse_known_args()
 
-    # Step 2: 动态导入 relation 文件
+    
     relation_path = args.relation_path
     module_name = os.path.splitext(os.path.basename(relation_path))[0]
     spec = importlib.util.spec_from_file_location(module_name, relation_path)
