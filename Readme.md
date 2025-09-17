@@ -5,11 +5,11 @@
 
 
 ## 📢 News
-- **[2025.09]**: 🎉 Tool paper accepted at **ASE 2025**
+- **[2025.09]**: 🎉 Tool paper accepted at **ASE 2025**.
   - Title: *Metamorphic Testing of Deep Reinforcement Learning Agents with MDPMORPH*
   - Authors: Jiapeng Li, Zheng Zheng, Yuning Xing, Daixu Ren, Steven Cho, Valerio Terragni
 
-- **[2025.07]**: 🎉 Paper accepted at **ISSRE 2025**
+- **[2025.07]**: 🎉 Paper accepted at **ISSRE 2025**.
   - Title: *MDPMORPH: An MDP-Based Metamorphic Testing Framework for Deep Reinforcement Learning Agents*
   - Authors: Jiapeng Li, Zheng Zheng, Yuning Xing, Daixu Ren, Steven Cho, Valerio Terragni
 
