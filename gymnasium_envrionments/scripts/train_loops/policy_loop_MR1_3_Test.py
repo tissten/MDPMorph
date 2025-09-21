@@ -16,7 +16,7 @@ def evaluate_policy_network(
 ):
     
     ###########################################################
-    file_names = [f"./Metamorphic/test suite/T{i}({i * 10}).txt" for i in range(40, 50)]
+    file_names = [f"./Metamorphic/test suite/T{i}.txt" for i in range(40, 50)]
     # para = 0
     # k = 0
     for file_name in file_names:
