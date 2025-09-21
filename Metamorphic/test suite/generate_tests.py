@@ -30,7 +30,7 @@ for i in range(0, num_sets + 1):
     test_cases = np.array(test_cases)
     
 
-    file_name = f"T{i}({i*10}).txt"
+    file_name = f"T{i}.txt"
     
 
     np.savetxt(file_name, test_cases, fmt=fmt, delimiter=" ")
